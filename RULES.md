@@ -1,10 +1,9 @@
 # OXIDE RULES
 
-<br>
 ► By using Oxide, you agree to these rules. 
 ► If you break any rules, we reserve the right to ban you from Oxide.
 ► Just because you didn't know that you broke a rule, doesn't mean that we will bend the rules for you, because if someone else broke the same rule and got punishment, it would be unfair treatment to them.
-</br>
+
 
 **#1:** Userbots, Spam, Macros, Scripts
 `Userbotting, Macros, Scripts or anything else used to automate commands is strictly prohibited, Spamming using the bots is also prohibited`
