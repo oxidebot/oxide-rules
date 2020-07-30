@@ -10,6 +10,7 @@
 </br>
 
 <br>
+
 **#1:** Userbots, Spam, Macros, Scripts
 </br>
 `Userbotting, Macros, Scripts or anything else used to automate commands is strictly prohibited, Spamming using the bots is also prohibited`
